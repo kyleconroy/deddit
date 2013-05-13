@@ -10,4 +10,4 @@ block that instant gratification, so I can't mindless go there.
 
 Does this mean I'm weak? Maybe, but it helps.
 
-[Install Deddit]()
+[Install Deddit for Firefox](http://kyleconroy.github.io/deddit/deddit.xpi)
