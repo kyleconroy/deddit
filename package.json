@@ -1,8 +1,8 @@
 {
-  "name": "projects",
-  "fullName": "projects",
+  "name": "deddit",
+  "fullName": "Deddit: Kill Reddit Dead",
   "id": "jid1-tkBSTmJ4hDDhTQ",
-  "description": "a basic add-on",
+  "description": "Don't let me go to reddit. Ever",
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1"
